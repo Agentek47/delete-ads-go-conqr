@@ -1,0 +1,20 @@
+{
+    "name": "goConqr Extension",
+    "version": "1.0" ,
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "matches": ["https://www.goconqr.com/*/*/*/*"],
+            "js": ["content.js"]
+        }
+    ],
+    "icons": {
+        "16": "goConqr.png", 
+        "32": "goConqr.png", 
+        "64": "goConqr.png" 
+    }, 
+    "permissions": ["tabs", "http://*/*", "https://*/*", "background"],
+    "background": {
+        "scripts": ["background.js"]
+    } 
+}
