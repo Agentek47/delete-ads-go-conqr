@@ -3,7 +3,7 @@
 Extension for google chrome that deletes side panel ads and modal dialog. 
 
 
-# How to install?
+## How to install?
 
 Select Extension icon 
 
