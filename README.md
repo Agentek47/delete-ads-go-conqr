@@ -1,4 +1,4 @@
-# Delete ads go conqr
+# Delete ads www.goconqr.com
 
 Extension for google chrome that deletes side panel ads and modal dialog. 
 
